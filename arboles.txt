@@ -5,3 +5,6 @@ pino
 canelo
 palto
 manzano
+olivo
+cocotero
+eucalipto
