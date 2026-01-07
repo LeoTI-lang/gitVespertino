@@ -1,3 +1,6 @@
 alerce
 alamo
 sauce
+pino
+canelo
+palto
